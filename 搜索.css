@@ -86,3 +86,14 @@ z-index: 1px;	/*表示在上层*/
 }
 ul {padding: 40px;
    margin: 0 auto;}
+.board {
+    padding: 1.5em;
+    background: #ffffff82;
+    border-radius: 1.5em;
+}/*块的背景*/
+.wrap.min{    max-width: 800px;
+}/*块网站大小*/
+
+
+
+
