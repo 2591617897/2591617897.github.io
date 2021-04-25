@@ -1,0 +1,68 @@
+.embed1{max-height: 200px;
+       max-width: 300px;
+      float: left;
+	  
+	  }
+	  
+.h11{height: 40px;
+     width: 1300px;
+	 align-items: center;
+	 
+     
+	 }
+	  
+.div1{height: 200px;
+     width: 600px;
+	 align-items: center;
+	 left: 40%;
+     display: ;
+	 border-style: outset;
+	 background-color: #ED9F9F;
+	 border-color:#a68a8a;
+	 
+	 }
+	 
+.div2{height:;
+	      width: 1300px;
+	 	 align-items: center;
+	      border-style: groove;
+	 	 }
+	 
+.p1{font-family: 楷体;
+   font-size: 14px;
+   line-height: 20px;
+   align:center;
+   }
+   
+   .h1{
+       padding: 0.5em;
+       background: #ffffff;
+       border-radius: 1em;
+   	height: auto;
+   	
+   }
+   
+   .div7 li a{
+   	      display: block;
+   		  padding: 5px 5px 0.5em;
+   		  text-decoration: none;
+   		  border-left: #ebebeb 12px solid;
+   		  border-right: #ebebeb 1px solid;
+   		
+   		  position:relative}
+   		   /*div7 菜单水平样式 */
+   	
+   .div7 li a:link,div7 a:visited{
+   	      background-color: #e5fbff;
+   			color: #ff0000;   
+   }		  
+   .div7 li a:hover{
+   	       background-color: #aaaaff;/* 背景颜色 */
+   		   color: #ff0000;/* 字体颜色*/
+   }		   /*div7 菜单水平样式，光标移动 */
+   	
+   
+   
+   
+ #left1{width: 10%;height: 700px;background-color:#fffdf2; float: left;}
+ #center1{width: 90%;height: 700px;background-color:#ffe9ec; float: left;}

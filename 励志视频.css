@@ -1,0 +1,19 @@
+.div1{height: 240px;
+     width: 98%;
+	 align-items: center;
+	 border-style: outset;
+	 background-color: #ffffff;
+	 border-color:#a68a8a;
+	 
+	 }
+.p1{font-family: 楷体;
+   font-size: 25px;
+   line-height: 30px;
+   align:center;
+   }
+   
+ .embed1{max-height: 200px;
+        max-width: 300px;
+       float: left;
+ 	  
+ 	  }
