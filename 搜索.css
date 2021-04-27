@@ -33,6 +33,8 @@
 	 font-size: +3;color: #F0F0F0;
  }
  
+ #big{width: 1900px; height: ;}
+
 .div7 ul{list-style: none;margin: 0px;padding: 0px;}
 .div7 li{border-bottom: #ed9f9f 1px solid;
          float: left;
@@ -71,7 +73,7 @@
     padding: 1.5em;
     background: #d1e3ead9;
     border-radius: 1.5em;
-	width: 85%;
+	width: 1600px;
 	margin: 10px 10px 10px 120px;
 	border-style: outset;
 	
