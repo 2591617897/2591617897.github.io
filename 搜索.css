@@ -1,0 +1,92 @@
+@charset "utf-8";
+/*搜索css*/
+
+			
+#div1{position: ;border: blanchedalmond;width: 50px;height:;}
+#div2{position: ;border: blanchedalmond;width: 100px;height:;}
+#header{margin: 0 auto;width: 760px;}
+#div3{
+	width: 400px;
+	height: 300px
+}/*空白框架*/
+#div4{display: inline}/*并行*/
+#div5{width:100%;height: 90px;}
+#div6{
+	width: 400px;
+	height: 300px;
+	margin: 0 auto;
+	padding: 30px;
+	text-align: center;
+}/*照片大小样式*/
+
+   
+ #left1{width: 40%;height: 300px;background: url(块元素/蓝色块元素.jpg); float: left; padding-left: 20px; 
+  border-style: outset;  border-radius: 1.5em;  margin: 10px 10px 10px 120px;border-style: outset;
+   border-color:#d1e3ead9 ;color: black;}
+ #center1{width: 40%;height: 300px;background: url(块元素/蓝色块元素.jpg); float: left; padding-left: 20px;
+ border-style: outset; border-radius: 1.5em;margin: 10px  80px 10px ;border-style: outset;
+  border-color:#d1e3ead9 ;font: white;}
+ 
+ #div8{height: 141px;}
+ 
+ #ul {
+	 font-size: +3;color: #F0F0F0;
+ }
+ 
+.div7 ul{list-style: none;margin: 0px;padding: 0px;}
+.div7 li{border-bottom: #ed9f9f 1px solid;
+         float: left;
+		 width: 160px;
+		 }
+.div7 li a{
+	      display: block;
+		  padding: 5px 2px 0.5em;
+		  text-decoration: none;
+		  border-left: #ebebeb 12px solid;
+		  border-right: #ebebeb 1px solid;
+		
+		  position:relative}
+		   /*div7 菜单水平样式 */
+	
+.div7 li a:link,div7 a:visited{
+	      background-color: #f0f0f0;
+			color: #ff0000;   
+}		  
+.div7 li a:hover{
+	       background-color: #aaaaff;/* 背景颜色 */
+		   color: #55ff00;/* 字体颜色*/
+}		   /*div7 菜单水平样式，光标移动 */
+
+.div8{background: url(照片库/蓝色背景.jpeg);}
+.div9{background-color: ;height: 500px;}
+		 
+
+.board1{
+    padding: 1.5em;
+    background: #f7e9ff;
+    border-radius: 1.5em;
+	width: 400px;
+}/*块的背景*/
+.board2{
+    padding: 1.5em;
+    background: #d1e3ead9;
+    border-radius: 1.5em;
+	width: 85%;
+	margin: 10px 10px 10px 120px;
+	border-style: outset;
+	
+}/*块的背景*/
+.h1{
+    padding: 1em;
+    background: #ffe7d5;
+    border-radius: 1em;
+	height: auto;
+	width: 80px;
+	
+}/*
+.wrap.min{    max-width: 800px;
+}/*块网站大小*/
+
+
+
+
