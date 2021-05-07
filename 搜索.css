@@ -11,7 +11,7 @@
 
 .div4{width: 14%;height: 200px;float: left; padding-left: 4px;}
 
-#div5{height: 260px;display: block;clear: both;}
+#div5{height: 260px;display: block;clear: both;min-width: 900px;}
 
 .img1{width: ;height: 200px;}
 
